@@ -1,0 +1,11 @@
+c:\users\jssmy\documents\visual studio 2013\Projects\SystemMatricula\SystemMatricula\bin\Debug\SystemMatricula.exe.config
+c:\users\jssmy\documents\visual studio 2013\Projects\SystemMatricula\SystemMatricula\bin\Debug\SystemMatricula.exe
+c:\users\jssmy\documents\visual studio 2013\Projects\SystemMatricula\SystemMatricula\bin\Debug\SystemMatricula.pdb
+c:\users\jssmy\documents\visual studio 2013\Projects\SystemMatricula\SystemMatricula\bin\Debug\SystemMatricula.xml
+c:\users\jssmy\documents\visual studio 2013\Projects\SystemMatricula\SystemMatricula\obj\Debug\SystemMatricula.Form1.resources
+c:\users\jssmy\documents\visual studio 2013\Projects\SystemMatricula\SystemMatricula\obj\Debug\SystemMatricula.Resources.resources
+c:\users\jssmy\documents\visual studio 2013\Projects\SystemMatricula\SystemMatricula\obj\Debug\SystemMatricula.REmpleado.resources
+c:\users\jssmy\documents\visual studio 2013\Projects\SystemMatricula\SystemMatricula\obj\Debug\SystemMatricula.vbproj.GenerateResource.Cache
+c:\users\jssmy\documents\visual studio 2013\Projects\SystemMatricula\SystemMatricula\obj\Debug\SystemMatricula.exe
+c:\users\jssmy\documents\visual studio 2013\Projects\SystemMatricula\SystemMatricula\obj\Debug\SystemMatricula.xml
+c:\users\jssmy\documents\visual studio 2013\Projects\SystemMatricula\SystemMatricula\obj\Debug\SystemMatricula.pdb
